@@ -6,10 +6,10 @@ package com.wang.youzhi;
  */
 public class VersionUtil {
 
-    private static String VERSION = "1.0";
-    private static String VERSION1 = "1.1";
+    private static String VERSION = "我是版本_v1.0";
+    private static String VERSION1 = "我是版本_v1.1";
 
     public static String getLibVersion() {
-        return VERSION;
+        return VERSION1;
     }
 }
