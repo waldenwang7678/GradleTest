@@ -10,6 +10,6 @@ public class VersionUtil {
     private static String VERSION1 = "我是版本_v1.1";
 
     public static String getLibVersion() {
-        return VERSION;
+        return VERSION1;
     }
 }
